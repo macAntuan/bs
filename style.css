@@ -1,8 +1,13 @@
+container {
+  width: 80%
+  margin: auto;
+}
+
 .chor {
   text-align: right;
 }
 
 .red {
-color: red;
-font-weight: 700;
+  color: red;
+  font-weight: 700;
 }
