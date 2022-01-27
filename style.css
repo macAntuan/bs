@@ -3,7 +3,7 @@ body, p, li {
 }
 
 main {
-  width: 80%;
+  width: 80vw;
   margin: auto;
   padding: 30px;
 }
