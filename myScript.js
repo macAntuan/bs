@@ -5,7 +5,7 @@ const vEctinia = '<h2>Великая ектинья</h2><div><p class = "diak">�
 
 function cont(mol) {
 let part = document.querySelector('.part');
-part.innerHTML = document.appendChild(mol);
+part.innerHTML = mol;
 }
 
 cont(vEctinia);
