@@ -36,4 +36,4 @@ const ect = () => {
 
 
 cont(vEctinia);
-cont(ect);
+ect();
